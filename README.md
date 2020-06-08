@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## Added
 
 Adding Committed
+
+Adding Staged
+
+Adding Not-Staged(yet)
