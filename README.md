@@ -13,3 +13,7 @@ Adding Committed
 Adding Staged
 
 Adding Not-Staged(yet)
+
+##Copyright
+
+git.traing 2020
