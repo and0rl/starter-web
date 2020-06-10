@@ -17,3 +17,5 @@ Adding Not-Staged(yet)
 ##Copyright
 
 git.traing 2020
+
+please fork this repository
